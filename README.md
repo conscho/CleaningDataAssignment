@@ -7,6 +7,7 @@ The path to the data is currently hard coded. The data file has to be unzipped i
 
 ## Files
 `CodeBook.md` describes how the sensor data is read, merged and summarized.
+
 `run_analysis.R` is the R script that performs these actions.
 
 ## Notes
